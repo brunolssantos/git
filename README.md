@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/zheyhanef/git)
+![GitHub](https://img.shields.io/github/license/zheyhanef/git)
+
 # git
 ## Curso GIT e GITHUB
 Respositório utilizado no curso de GitHub para aprender a mexer no sistema. 
