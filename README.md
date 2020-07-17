@@ -1,5 +1,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/zheyhanef/git)
 ![GitHub](https://img.shields.io/github/license/zheyhanef/git)
+![GitHub language count](https://img.shields.io/github/languages/count/zheyhanef/git)
+![GitHub top language](https://img.shields.io/github/languages/top/zheyhanef/git)
 
 # git
 ## Curso GIT e GITHUB
